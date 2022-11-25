@@ -1,19 +1,13 @@
 <br><h2 align="center">Hi there!</h2><br>
 
 <div align="center">
-	
-This is the place where I backup my projects and break some stuff down :bowtie:
-	<br/>
-	<br/>
 
-Software Developer 
-	<br/>
-	Student at 42Heilbronn
-	<br/>
-42intra: <b>jpfuhl</b>
+𝕒𝕕𝕕𝕚𝕔𝕥𝕖𝕕 𝕥𝕠 𝕔𝕠𝕕𝕚𝕟𝕘 𝕤𝕚𝕟𝕔𝕖 𝟚𝟘𝟚𝟙 </br>
 </br>
-Contact me in those languages 
+software developer</br>
+student at <a href="https://www.42heilbronn.de/en/">𝟜𝟚𝕙𝕖𝕚𝕝𝕓𝕣𝕠𝕟𝕟</a></br>
 </br>
+available in</br>
 🇩🇪🇬🇧 
 </br>
 
