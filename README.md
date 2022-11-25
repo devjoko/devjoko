@@ -4,7 +4,7 @@
 This is the place where I backup my projects and break some stuff down :bowtie:
 - 👨‍💻&nbsp;Software Developer 
 - 💻 intra: <b>jpfuhl</b>
-- 🇩🇪🇬🇧 Contact me with those language 
+- 🇩🇪🇬🇧 Contact me in those languages 
 
 
 <br><h2 align="center">Languages and Tools</h2><br>
