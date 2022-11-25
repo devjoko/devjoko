@@ -1,11 +1,23 @@
 <br><h2 align="center">Hi there!</h2><br>
 
-
+<div align="center">
+	
 This is the place where I backup my projects and break some stuff down :bowtie:
-- 👨‍💻&nbsp;Software Developer 
-- 💻 intra: <b>jpfuhl</b>
-- 🇩🇪🇬🇧 Contact me in those languages 
+	<br/>
+	<br/>
 
+Software Developer 
+	<br/>
+	Student at 42Heilbronn
+	<br/>
+42intra: <b>jpfuhl</b>
+</br>
+Contact me in those languages 
+</br>
+🇩🇪🇬🇧 
+</br>
+
+</div>
 
 <br><h2 align="center">Languages and Tools</h2><br>
 
