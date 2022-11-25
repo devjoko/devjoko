@@ -1,5 +1,4 @@
-
-## Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+<br><h2 align="center">Hi there!</h2><br>
 
 
 This is the place where I backup my projects and break some stuff down :bowtie:
@@ -8,7 +7,7 @@ This is the place where I backup my projects and break some stuff down :bowtie:
 - 🇩🇪🇺🇸 Contact me with those language 
 
 
-<br><h2 align="center">Languages and Tools :hammer_and_wrench: </h2><br>
+<br><h2 align="center">Languages and Tools</h2><br>
 
 <div align="center">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
