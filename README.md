@@ -18,7 +18,7 @@ Therefore I have a broad skillset. Here are some examples.
 
 <h3>Web Development</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vue,angular,nodejs,go,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,angular,react,next,java,spring,nodejs,go,mysql)](https://skillicons.dev)
 
 <h3>Low-Level</h3>
 
